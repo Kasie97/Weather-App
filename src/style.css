@@ -79,6 +79,8 @@ body {
   .weather-temp .active:hover {
     text-decoration: none;
   }
-  
+  .w-100 {
+    background-color: blueviolet;
+  }
   
   
